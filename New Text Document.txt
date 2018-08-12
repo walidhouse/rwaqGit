@@ -2,3 +2,11 @@
 git config --global user.name "walid"
 git config --global user.email "walid***@****.com"
 git config --list
+
+
+https://stackoverflow.com/questions/36810467/git-commit-signing-failed-secret-key-not-available
+
+https://stackoverflow.com/questions/12061645/generating-a-gpg-key-for-git-tagging
+
+https://stackoverflow.com/questions/5663733/signing-tags-in-git
+
